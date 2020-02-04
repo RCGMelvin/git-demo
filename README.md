@@ -12,6 +12,6 @@ Here are the files in the website.
 
 ### Copyright
 
-git training
+git training. All right reserved
 
 ## Kahit ano
