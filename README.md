@@ -1,7 +1,6 @@
 # Demo Git Repository
 
-This is the first file in this repo. adding a line for rebasing
-
+This is the first file in this repo. Update for emergency
 ## Website Contents
 
 Please fork this repository
